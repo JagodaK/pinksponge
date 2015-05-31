@@ -64,7 +64,7 @@ table {
 	src: url("fonts/Roboto-Regular.ttf");
 }
 
-<<<<<<< HEAD
+
 /*@media screen and (max-width: 900px) {
 		.wrapper nav ul {
 			width: 500px;
@@ -110,9 +110,6 @@ table {
 		}
 }*/
 
-
-=======
->>>>>>> 3a62c6ffe76ec82cd22820fbc600e41e5a153de5
 body {
 	margin: 0px;
 	padding: 0px;
@@ -408,11 +405,7 @@ footer {
 }
 
 #footer-content ul {
-<<<<<<< HEAD
 	width: 100px;
-=======
-	width: 80px;
->>>>>>> 3a62c6ffe76ec82cd22820fbc600e41e5a153de5
 	float: right;
 }
 
@@ -420,15 +413,9 @@ footer {
 	width: 24px;
 	height: 24px;
 	display: inline-block;
-<<<<<<< HEAD
 }
 
 #footer-content li:first-child {
 	margin-left: 20px;
 }
 
-
-
-=======
-}
->>>>>>> 3a62c6ffe76ec82cd22820fbc600e41e5a153de5
