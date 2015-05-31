@@ -405,7 +405,7 @@ footer {
 }
 
 #footer-content ul {
-	width: 100px;
+	width: 120px;
 	float: right;
 }
 
@@ -413,9 +413,8 @@ footer {
 	width: 24px;
 	height: 24px;
 	display: inline-block;
+	float: right;
 }
 
-#footer-content li:first-child {
-	margin-left: 20px;
-}
+
 
